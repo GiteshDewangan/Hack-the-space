@@ -13,6 +13,7 @@ Qplay is a full-stack quiz application developed during the HackTheSpace hackath
 ## Contributors
 
 - **Gitesh Dewangan**
+  - github: GiteshDewangan
   - Email: giteshdewangan123456@gmail.com
 
 - **Mayankleo**
@@ -23,7 +24,7 @@ Qplay is a full-stack quiz application developed during the HackTheSpace hackath
 - Angular
 - TypeScript
 - Django Python
-- (Add other relevant technologies)
+
 
 ## Usage
 
